@@ -1,0 +1,7 @@
+{
+    "name": "Resource Calculator",
+    "version": "0.1.0",
+    "contactEmailAddress": "contact@tomwright.me",
+    "hasRibbonIcon": true,
+    "requiredDependencies": { "PrettyUI": "6398181" }
+}

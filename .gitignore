@@ -1,0 +1,6 @@
+# Local copy of developer.runescape.com. It's Jagex's documentation, not ours
+# to redistribute, so it stays out of the repository.
+docs/
+
+# Upload zips built by tools/package.ps1
+dist/
